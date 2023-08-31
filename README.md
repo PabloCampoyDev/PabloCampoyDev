@@ -10,9 +10,9 @@
 </p>
 
 <div align="center">
-  <img align="center" alt="Pablo-Delphi" src="https://img.shields.io/badge/Delphi-red?style=for-the-badge&logo=delphi&logoColor=white">
-  <img align="center" alt="Pablo-VCL" src="https://img.shields.io/badge/VCL-blue?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Pablo-Firemonkey" src="https://img.shields.io/badge/Firemonkey-red?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Pablo-Delphi" src="https://img.shields.io/badge/Delphi-red?style=for-the-badge&logo=embarcadero&logoColor=white">
+  <img align="center" alt="Pablo-VCL" src="https://img.shields.io/badge/VCL-blue?style=for-the-badge&logo=delphi&logoColor=white">
+  <img align="center" alt="Pablo-Firemonkey" src="https://img.shields.io/badge/Firemonkey-red?style=for-the-badge&logo=delphi&logoColor=white">
   <img align="center" alt="Pablo-Flutter" src="https://img.shields.io/badge/Flutter-EE5C84?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Pablo-CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Pablo-HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,6 +23,3 @@
 </div>
 
 <br/>
-<div align="center">
-  <p><b><i>“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life” (John 3:16).</b></i></p>
-</div>
