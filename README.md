@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/PabloCampoyDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablocampoydev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablocampoydev&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloCampoyDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloCampoyDev&layout=compact&langs_count=7&theme=dark"/>
   </a>  
 </div>
   
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablocampoydev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="pablocampoydev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloCampoyDev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="PabloCampoyDev" />
 </p>
 
 <div align="center">
